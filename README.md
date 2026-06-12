@@ -1,5 +1,3 @@
-# Protein Stability Assessment Using Molecular Dynamics Simulations with GROMACS
-
 ## Overview
 
 This repository demonstrates a molecular dynamics (MD) simulation workflow performed using GROMACS for evaluating protein structural stability in an aqueous environment. The project was developed as part of the "Introduction to Molecular Dynamics Simulations" training conducted by Rajiv Gandhi Centre for Biotechnology (RGCB), India.
