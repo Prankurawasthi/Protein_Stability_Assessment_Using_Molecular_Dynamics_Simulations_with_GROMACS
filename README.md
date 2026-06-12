@@ -4,6 +4,8 @@ This repository demonstrates a molecular dynamics (MD) simulation workflow perfo
 
 The workflow follows a standard biomolecular simulation pipeline including protein preparation, system solvation, ion neutralization, energy minimization, equilibration, and trajectory analysis.
 
+**Note: This repository is based on training/tutorial implementation not for any publication**
+
 ## Objectives
 
 * Understand molecular dynamics simulation principles.
