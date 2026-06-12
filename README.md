@@ -1,4 +1,3 @@
-# Protein_Stability_Assessment_Using_Molecular_Dynamics_Simulations_with_GROMACS
 # Protein Stability Assessment Using Molecular Dynamics Simulations with GROMACS
 
 ## Overview
